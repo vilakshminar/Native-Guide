@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nativeguide</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_map_fragment">RouteMap</string>
+    <string name="nextButton">Next</string>
+    <string name="error_when_retrieving_data">Error in retrieving data</string>
+    <string name="testText">It is  working!</string>
+    <string name="imageHint">Application Logo</string>
+
+    <color name="redColor">#ffff0000</color>
+
+    <string name="langText">Choose the language to be guided in</string>
+    <string name="tamilText">Tamil</string>
+    <string name="hindiText">Hindi</string>
+    <string name="title_activity_second">Source &amp; Destination address</string>
+    <string name="sourceText">Enter the source address</string>
+    <string name="destText">Enter the destination address</string>
+    <string name="title_activity_third">Mode of transportation</string>
+    <string name="modeText">Enter your mode of transportation</string>
+    <string name="drivingText">Driving</string>
+    <string name="walkingText">Walking</string>
+    <string name="bicyclingText">Bicycling</string>
+    <string name="transitText">Transit</string>
+    <string name="title_activity_fourth">Waypoints</string>
+    <string name="waypointsText">Enter the waypoints in the route(optional)</string>
+    <string name="firstWPText">Enter the first waypoint</string>
+    <string name="secondWPText">Enter the second waypoint</string>
+    <string name="thirdWPText">Enter the third waypoint</string>
+    <string name="fourthWPText">Enter the fourth waypoint</string>
+    <string name="fifthWPText">Enter the fifth waypoint</string>
+    <string name="sixthWPText">Enter the sixth waypoint</string>
+    <string name="title_activity_fifth">MapType</string>
+    <string name="title_activity_sixth">Route Directions in Text</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mapTypeText">Choose a map type</string>
+    <string name="mapNormalText">Normal</string>
+    <string name="mapSatelliteText">Satellite</string>
+    <string name="mapTerrainText">Terrain</string>
+    <string name="mapHybridText">Hybrid</string>
+    <string name="teluguText">Telugu</string>
+    <string name="malayalamText">Malayalam</string>
+    <string name="kannadaText">Kannada</string>
+    <string name="marathiText">Marathi</string>
+    <string name="displayDirectionsButton">Display Directions</string>
+    <string name="directionsText">Text Directions</string>
+    <string name="btnSpeak">Speak out</string>
+
+</resources>

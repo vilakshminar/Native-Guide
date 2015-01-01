@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/background">
+ 
+    <TextView android:id="@+id/sourceText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ff00ff00"
+        android:textSize="15sp"
+       android:text="@string/sourceText" />
+    
+    <com.balaji.android.nativeguide.CustomAutoCompleteTextView
+        android:id="@+id/atv_places1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/sourceText"
+        android:textColor="#ff00ffff" />
+    
+     <TextView android:id="@+id/destText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ff00ff00"
+        android:textSize="15sp"
+        android:text="@string/destText" />
+    
+    <com.balaji.android.nativeguide.CustomAutoCompleteTextView
+        android:id="@+id/atv_places2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/destText"
+        android:textColor="#ff00ffff" />
+    
+     <Button android:text="@string/nextButton"
+         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ff00ff00"
+        android:textSize="15sp"
+        android:onClick="geocode"/>
+    
+</LinearLayout>

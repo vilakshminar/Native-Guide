@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:scrollbars="vertical"
+    android:background="@drawable/background">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/waypointsText"
+        android:textColor="#ff00fa9a" 
+        android:textSize="22sp"/>
+
+    <EditText android:hint="@string/firstWPText"
+        android:id="@+id/firstWPText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffff1493"
+         />
+
+    <EditText android:hint="@string/secondWPText"
+        android:id="@+id/secondWPText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffff1493"
+         />
+
+    <EditText android:hint="@string/thirdWPText"
+        android:id="@+id/thirdWPText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffff1493"
+         />
+
+    <EditText android:hint="@string/fourthWPText"
+        android:id="@+id/fourthWPText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffff1493"
+         />
+
+    <EditText android:hint="@string/fifthWPText"
+        android:id="@+id/fifthWPText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffff1493"
+         />
+
+    <EditText android:hint="@string/sixthWPText"
+        android:id="@+id/sixthWPText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffff1493"
+         />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nextButton"
+        android:onClick="moveNext" 
+        android:textColor="#ff00fa9a" />
+
+</LinearLayout>

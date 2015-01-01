@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background">
+	
+	<TextView android:id="@+id/langText"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/langText"
+	    android:textColor="#ff00ff00"
+	    android:textSize="20sp"/>
+	    
+	<RadioGroup 
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="vertical">
+
+   		<RadioButton
+   		    android:id="@+id/tamilRadio"
+   		    android:layout_width="174dp"
+   		    android:layout_height="wrap_content"
+   		    android:text="@string/tamilText" 
+   		    android:textColor="#ff0000ff"
+   		    android:textSize="15sp"
+   		    android:onClick="onRadioButtonClicked"/>
+
+    	<RadioButton android:id="@+id/hindiRadio"
+	        android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="@string/hindiText"
+        	android:textColor="#ff0000ff"
+   		    android:textSize="15sp"
+        	android:onClick="onRadioButtonClicked"/>
+    	
+    	<RadioButton
+   		    android:id="@+id/malayalamRadio"
+   		    android:layout_width="174dp"
+   		    android:layout_height="wrap_content"
+   		    android:text="@string/malayalamText" 
+   		    android:textColor="#ff0000ff"
+   		    android:textSize="15sp"
+   		    android:onClick="onRadioButtonClicked"/>
+    	
+    	<RadioButton
+   		    android:id="@+id/kannadaRadio"
+   		    android:layout_width="174dp"
+   		    android:layout_height="wrap_content"
+   		    android:text="@string/kannadaText" 
+   		    android:textColor="#ff0000ff"
+   		    android:textSize="15sp"
+   		    android:onClick="onRadioButtonClicked"/>
+    	
+    	<RadioButton
+   		    android:id="@+id/teluguRadio"
+   		    android:layout_width="174dp"
+   		    android:layout_height="wrap_content"
+   		    android:text="@string/teluguText" 
+   		    android:textColor="#ff0000ff"
+   		    android:textSize="15sp"
+   		    android:onClick="onRadioButtonClicked"/>
+    	
+    	<RadioButton
+   		    android:id="@+id/marathiRadio"
+   		    android:layout_width="174dp"
+   		    android:layout_height="wrap_content"
+   		    android:text="@string/marathiText" 
+   		    android:textColor="#ff0000ff"
+   		    android:textSize="15sp"
+   		    android:onClick="onRadioButtonClicked"/>
+	</RadioGroup>
+</LinearLayout>

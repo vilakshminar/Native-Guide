@@ -1,0 +1,18 @@
+Head <b>northeast</b> toward <b>Nungambakkam High Rd</b>
+Exit the roundabout
+Slight <b>left</b> onto <b>Anna Salai</b><div style="font-size:0.9em">Pass by Audi Showroom (on the left in 3.5&nbsp;km)</div>
+Continue onto <b>Taluk Office Rd</b><div style="font-size:0.9em">Pass by Post &amp; Telegraph Office (on the left)</div>
+Keep <b>right</b> to stay on <b>Taluk Office Rd</b>
+Continue onto <b>Sardar Patel Rd</b><div style="font-size:0.9em">Continue to follow சர்தார் படேல் சாலை</div><div style="font-size:0.9em">Pass by Alexander Square (on the left in 800&nbsp;m)</div>
+Continue onto <b>Anna Salai</b><div style="font-size:0.9em">Pass by Rajpark Guindy (on the left in 1.0&nbsp;km)</div>
+Slight <b>left</b> onto <b>Marmalong Bridge - Irumbuliyur - Mudichur - Oraga Dam - Walajabad Rd/Nagapattinam-Chennai Hwy/Tiruchi-Chennai Hwy/SH 48</b><div style="font-size:0.9em">Continue to follow Nagapattinam-Chennai Hwy</div><div style="font-size:0.9em">Partial toll road</div><div style="font-size:0.9em">Drive along Le Royal (on the left for 110&nbsp;m)</div>
+Continue onto <b>Grand Southern Trunk Rd/National Highway 45</b><div style="font-size:0.9em">Partial toll road</div>
+Slight <b>right</b> to stay on <b>Grand Southern Trunk Rd/National Highway 45</b><div style="font-size:0.9em">Partial toll road</div><div style="font-size:0.9em">Go through 1 roundabout</div><div style="font-size:0.9em">Pass by HP Petrol Pump (on the left in 36.5&nbsp;km)</div>
+Continue onto <b>NH 45B</b><div style="font-size:0.9em">Partial toll road</div><div style="font-size:0.9em">Pass by Indian Oil Petrol Station (on the left in 119&nbsp;km)</div>
+Turn <b>right</b> onto <b>Sivaganga Rd</b><div style="font-size:0.9em">Pass by Dr.Rajini ENT Hospital (on the right in 3.2&nbsp;km)</div>
+Slight <b>left</b> onto <b>Panagal Rd</b><div style="font-size:0.9em">Pass by Rajaji Hospital Extension (on the left)</div>
+11-25 20:03:32.132: I/Text instructions(14488):  At <b>AV Bridge</b>, take the <b>2nd</b> exit onto <b>Meenakshi College Road</b><div style="font-size:0.9em">Pass by Guru Travel (on the right)</div>
+Turn <b>left</b> toward <b>Hanumar Koil Padithurai Rd</b>
+Take the 1st <b>right</b> toward <b>Hanumar Koil Padithurai Rd</b>
+Turn <b>left</b> onto <b>Hanumar Koil Padithurai Rd</b><div style="font-size:0.9em">Pass by Anjaneya Temple (on the right)</div>
+Turn <b>left</b> at Thilagar Thidal police station onto <b>Kochi - Dhanushkodi Rd/Kochi-Madurai-Tondi Point Hwy/Simmakkal Rd/AH 43/National Highway 49</b>

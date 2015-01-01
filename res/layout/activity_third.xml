@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/modeText" 
+        android:textSize="25sp"
+        android:textColor="#ff00ff00"
+     />
+
+    <RadioGroup 
+        android:id="@+id/modeRadioGroup"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="vertical">
+
+   		<RadioButton
+   		    android:id="@+id/drivingRadio"
+   		    android:layout_width="wrap_content"
+   		    android:layout_height="wrap_content"
+   		    android:text="@string/drivingText" 
+   		    android:textColor="#ffff1493"
+   		    android:textSize="20sp"
+   		    android:onClick="onRadioButtonClicked"/>
+
+    	<RadioButton android:id="@+id/walkingRadio"
+	        android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="@string/walkingText"
+        	android:textColor="#ffff1493"
+   		    android:textSize="20sp"
+        	android:onClick="onRadioButtonClicked"/>
+    	
+    	<RadioButton
+   		    android:id="@+id/bicyclingRadio"
+   		    android:layout_width="wrap_content"
+   		    android:layout_height="wrap_content"
+   		    android:text="@string/bicyclingText" 
+   		    android:textColor="#ffff1493"
+   		    android:textSize="20sp"
+   		    android:onClick="onRadioButtonClicked"/>
+    	
+    	<RadioButton
+   		    android:id="@+id/transitRadio"
+   		    android:layout_width="wrap_content"
+   		    android:layout_height="wrap_content"
+   		    android:text="@string/transitText" 
+   		    android:textColor="#ffff1493"
+   		    android:textSize="20sp"
+   		    android:onClick="onRadioButtonClicked"/>
+	</RadioGroup>
+	
+</LinearLayout>
